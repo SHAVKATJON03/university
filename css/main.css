@@ -1,17 +1,7 @@
-<<<<<<< HEAD
 * {
   padding: 0;
   margin: 0;
   box-sizing: border-box;
-=======
-.data-img{
-    display: flex;
-}
-*{
-    padding: 0;
-    margin: 0;
-    box-sizing: border-box;
->>>>>>> 6dec803c4f446dcecb16c571480738c4e5fad118
 }
 a {
   text-decoration: none;
@@ -39,7 +29,7 @@ ul {
   margin: 29px 237px 29px 31px;
 }
 .carer h3 {
-  margin: 0px 34px 9px 31px;
+  margin: 15px 34px 9px 31px;
 }
 .carer p {
   margin: 9px 34px 9px 31px;
@@ -73,4 +63,12 @@ font-size: 22px;
 line-height: 38px;
 text-align: center;
 color: #7D7D7D;
+}
+.box {
+  margin-top: 100px;
+  flex-wrap: wrap;
+  display: flex;
+  gap: 95px;
+  justify-content: center;
+  align-items: center;
 }
