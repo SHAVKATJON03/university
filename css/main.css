@@ -6,6 +6,9 @@
     margin: 0;
     box-sizing: border-box;
 }
+body {
+  font-family: sans-serif;
+}
 a {
   text-decoration: none;
   color: inherit;
@@ -74,4 +77,28 @@ color: #7D7D7D;
   gap: 95px;
   justify-content: center;
   align-items: center;
+}
+.card {
+  height: 406px;
+width: 344px;
+left: 0px;
+top: 0px;
+border-radius: 10px;
+
+}
+.date {
+  
+  display: flex;
+  align-items: center;
+  /* justify-content: center; */
+}
+.text {
+  font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 22px;
+line-height: 26px;
+
+color: #252525;
+
 }
