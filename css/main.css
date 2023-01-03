@@ -270,7 +270,7 @@ ul {
   width: 100%;
 }
 .footer {
-  height: 300px;
+  height: 310px;
   width: 100%;
   background-color: #717cff;
 }
@@ -280,4 +280,22 @@ ul {
 .teks1 {
   margin-top: 58px;
   margin-bottom: 45px;
+}
+.bolim {
+  color: white;
+ display: flex;
+ gap: 180px;
+}
+.facebook {
+ gap: 28px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 155px;
+}
+.bolim ul {
+  margin-top: 70px;
+}
+.bolim ul li {
+  margin-top: 25px;
 }
