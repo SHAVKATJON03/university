@@ -25,41 +25,41 @@ ul {
     padding: 0 20px;
 }
 
-.ul-header{
-    display: flex;
-    gap: 50px;
-    list-style: none;
-    margin-left: 300px;
-    margin-top: -36px;
+.ull li {
+  display: flex;
+  gap: 50px;
+  margin-left: 200px;
+  margin-top: -30px;
 }
 
-.ul-apply{
-    width: 60px;
-    height: 24px;
-    border: 2px solid blue;
-    border-radius: 7px;
-    text-align: center;
-    padding-top: -3px;
-
+.apply{
+  width: 111px;
+  height: 42px;
+  border-radius: 11px;
+  background-color: rgba(113, 124, 255, 1);
+  margin-left: 900px;
+  margin-top: -30px;
+  text-align: center;
+  padding-top: 12px;
 }
-
-.span1{
-    color: blue;
+.mains .p2{
+  width: 532px;
+  height: 154px;
+  margin-top: 130px;
+  margin-left: 138px;
+  font-family: Roboto;
+font-size: 56px;
+font-weight: 900;
+line-height: 66px;
+letter-spacing: 0px;
+text-align: left;
 }
-.main{
-    width: 360px;
-    height: 154px;
-
+.spa1{
+  color: rgba(113, 124, 255, 1)  ;
 }
-.prag{
-    margin-top: 100px;
-    font-size: 40px;
-    font-weight: 900;
-}
-
-.pragref{
-    width: 400px;
-    padding-top: 30px;
+.img2{
+  margin-left: 700px;
+  margin-top: -210px;
 }
 
 .first-bootom{
